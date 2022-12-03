@@ -1,0 +1,5 @@
+/home/ivan/CLionProjects/design_patterns/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ivan/CLionProjects/design_patterns/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ivan/CLionProjects/design_patterns/cmake-build-debug/Strategy/CMakeFiles/Strategy.dir
+/home/ivan/CLionProjects/design_patterns/cmake-build-debug/Strategy/CMakeFiles/edit_cache.dir
+/home/ivan/CLionProjects/design_patterns/cmake-build-debug/Strategy/CMakeFiles/rebuild_cache.dir
